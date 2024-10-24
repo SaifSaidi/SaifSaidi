@@ -5,6 +5,3 @@
 - 🔭 I’m currently working on **saas project**
 - 🌱 I’m currently learning **latest version of dotnet**
 
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifsaidi&show_icons=true&locale=en&layout=compact" alt="saifsaidi" /></p>
- 
